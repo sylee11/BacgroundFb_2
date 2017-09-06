@@ -22,7 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <EditText
-            android:paddingLeft="5dp"
+            android:paddingLeft="8dp"
             android:layout_marginBottom="15dp"
             android:background="@drawable/vocanh"
             android:textColor="@color/black"
@@ -31,7 +31,7 @@
             android:layout_height="45dp" />
         <EditText
             android:inputType="textPassword"
-            android:paddingLeft="5dp"
+            android:paddingLeft="8dp"
             android:layout_marginBottom="15dp"
             android:textColor="@color/black"
             android:background="@drawable/vocanh"
@@ -43,12 +43,13 @@
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:background="@drawable/vocanh_login"
+            android:textSize="20dp"
             android:text="Log in"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>
     <TextView
-        android:layout_marginBottom="15dp"
+        android:layout_marginBottom="10dp"
         android:layout_centerInParent="true"
         android:layout_alignParentBottom="true"
         android:textColor="@color/white"
@@ -63,6 +64,5 @@
         android:src="@drawable/dauhoifb"
         android:layout_width="25dp"
         android:layout_height="25dp" />
-
 
 </RelativeLayout>
