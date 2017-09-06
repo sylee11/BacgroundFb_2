@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">BacgroundFb</string>
-    <string name="sign_up">Đăng kí Facebook</string>
     <string name="sig_up_for_facebook"><u>Sig up for facebook</u></string>
 
 </resources>
